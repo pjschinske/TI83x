@@ -10,6 +10,6 @@ This project is licenced under CERN-OHL-S v2.
 
 ## Featuring
 
-- An RGB, 240x320 IPS touchscreen from Newhaven Display
+- A full–color 240x320 IPS touchscreen from Newhaven Display
 - An ESP32 microcontroller
 - A Lithium ion battery, charged via USB-C
