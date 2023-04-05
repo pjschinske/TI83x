@@ -1,6 +1,8 @@
 # TI-83x
 
-If Texas Instruments still made a TI-83... well it would probably look a lot a lot different than this, but this is about what I would want it to look like.
+![Render of the TI-83 PCB](/Pictures/render.png)
+
+If Texas Instruments still made a TI-83... well, it would probably look a lot a lot different than this, but this is what I would want it to look like.
 
 I'm completely replacing the internals of a TI-83 Plus graphing calculator and moderizing them.
 
